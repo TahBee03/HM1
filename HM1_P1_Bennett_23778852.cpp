@@ -1,6 +1,6 @@
 /*
 NAME: Talike Bennett
-EMPLID: 23778852
+HM1, Part 1
 */
 
 //Compile: g++ -std=c++0x -o HM1_P1 HM1_P1.cpp
